@@ -1,0 +1,36 @@
+---
+title: "Characters"
+---
+- Steve Boatman
+    - Street Urchin turned Salesman
+    - Backed by Unknown Cthlulu-esque lord
+- Bovarick
+    - Mountain Dwarf
+    - Gang member
+    - Druid
+- Goat 
+    - Lady Killer
+    - Simple minded
+    - Pussy Slayer
+- Nub 
+    - Short as shit
+    - Balding
+    - Rough Navigator
+    - Pawn shop
+    - Loves shiny things
+- Laqneur
+    - Young Adventurer
+    - Fresh out of the abbey
+- Despicable Grimes - Pirate
+    - Unknown pirate we're chasing
+- Flint the Squint Mcquint
+    - Own's Biggest Balliest Salt Life Ship
+- Craw-too 
+  - Native Village Elder
+  - Not an incestual cannibal
+- CoCo
+  -  Son of the Village Elder
+- Bean 
+  - Coco's triceratops
+- Micki
+  - Old map maker man with thinning hair
