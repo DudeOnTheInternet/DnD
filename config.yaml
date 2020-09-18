@@ -44,6 +44,9 @@ menu:
     - name: Wilde Tide Island
       url: /wildtideisland/
       weight: 2
+    - name: World Building
+      url: /worldbuilding/
+      weight: 3
     - name: RSS
       url: /index.xml
       weight: 5
