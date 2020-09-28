@@ -25,12 +25,12 @@ title: "Characters"
     - Unknown pirate we're chasing
 - Flint the Squint Mcquint
     - Own's Biggest Balliest Salt Life Ship
-- Craw-too 
+- Krottu 
   - Native Village Elder
   - Not an incestual cannibal
-- CoCo
+- Koko
   -  Son of the Village Elder
 - Bean 
-  - Coco's triceratops
+  - Koko's triceratops
 - Micki
   - Old map maker man with thinning hair
