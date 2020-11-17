@@ -1,4 +1,4 @@
 ---
 title: "World Building"
-image: "/images/WorldMap.jpg"
+image: "/images/WorldMap.png"
 ---
