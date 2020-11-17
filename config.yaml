@@ -47,6 +47,9 @@ menu:
     - name: World Building
       url: /worldbuilding/
       weight: 3
+    - name: Waterdeep AEF
+      url: /waterdeep/
+      weight: 3
     - name: RSS
       url: /index.xml
       weight: 5
