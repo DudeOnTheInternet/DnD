@@ -61,7 +61,32 @@ title: "Monster Hunter Guild and Surrounding Area"
 
 #### Monster Hunter Guild Characters:
 
+- Branch Manager/Drill Sergeant/Sometime-Assessor-rescuer/Sous-Chef/HQ-Wizard-Intern: The branch manager is a being with multiple personalities, which will ***never be explained***, that also possesses illusion magic so it is unknown what their true form looks like, but below are the known variants. Despite all this they fulfill multiple jobs and have pushed their branch through the ranks of the Monster Hunter Guild as one of the good ones. 
+  - Known Variants:
+    - Sergeant Trevor:
+      - looks like a human man with an average Thicc build, with kind eyes, a large head, and buzzcut with full beard. 
+      - Has a nonsense attitude and is incredibly overworked. 
+      - Attempts to sound like a drill sergeant
+    - ...Some more probably
+- HQ Wizard: Tim (The Tim)
+  - A powerful wizard who is incredibly lazy and known throughout the land who is now doing simple organizational magic work
+  - Looks like Gandalf talks like Mike Tyson.
+- HR Person: Matt \#7
+  - One of your standard HR Matts always trying to create pointless events to increase morale or reduce company liability. 
+  - Khakis and a button up. 
+  - Clean shaven. 
+  - Annoyingly Chipper exactly like Linda, but a male variant.
+- Cook: Cook Williams
+  - A stereotypical looking troll with hunchback and severe back problems from working in a kitchen too small. Has a stereotypical monster gravel voice. Only wears a chef hat and apron.
 - Assessor: Dirk Heavimetal (He-vi-me-tahl)
+  - Long face, long hair. Jet black hair
+  - brown duster with the rest of his apparel being cowboy vibes
+  - Has a missing arm from a previous hunt. 
+  - Has a country gravel voice.
+  - Has a heart of gold and does his work for the people not for money.
+  - Has a very terse speech pattern.
+  - Thorough.
+- Variable Amount of Hunters: A fluctuating amount of hunters stay at this guild as some are using it as a way station for other jobs or simply out on missions so their can be any number between 5 to 30 hunters staying at this branch's castle.
 
 #### Monster Hunter Keep Layout
 
