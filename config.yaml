@@ -41,7 +41,7 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Monster Huntering
+    - name: Monster Hunting
       url: /monsterhunting
       weight: 2
     - name: Wilde Tide Island
