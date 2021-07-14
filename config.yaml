@@ -41,18 +41,24 @@ menu:
     - name: Home
       url: /
       weight: 1
+    - name: Monster Huntering
+      url: /monsterhunting
+      weight: 2
     - name: Wilde Tide Island
       url: /wildtideisland/
-      weight: 2
+      weight: 5
     - name: World Building
       url: /worldbuilding/
-      weight: 3
+      weight: 2
     - name: Waterdeep AEF
       url: /waterdeep/
-      weight: 3
+      weight: 4
+    - name: Admin
+      url: /admin
+      weight: 6
     - name: RSS
       url: /index.xml
-      weight: 5
+      weight: 7
 
 markup:
   defaultMarkdownHandler: goldmark

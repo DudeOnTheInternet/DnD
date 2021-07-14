@@ -11,6 +11,7 @@ title: "Monster Hunter Guild and Surrounding Area"
   - [Monster Hunter Guild Characters:](#monster-hunter-guild-characters)
   - [Monster Hunter Keep Layout](#monster-hunter-keep-layout)
   - [Missions](#missions)
+  - [Mission/Incident Ratings](#missionincident-ratings)
   - [Recruitment/Training](#recruitmenttraining)
 - [Jump Start Character Questions](#jump-start-character-questions)
 - [One Off Stuff](#one-off-stuff)
@@ -77,7 +78,9 @@ title: "Monster Hunter Guild and Surrounding Area"
   - Clean shaven. 
   - Annoyingly Chipper exactly like Linda, but a male variant.
 - Cook: Cook Williams
-  - A stereotypical looking troll with hunchback and severe back problems from working in a kitchen too small. Has a stereotypical monster gravel voice. Only wears a chef hat and apron.
+  - A stereotypical looking troll with hunchback and severe back problems from working in a kitchen too small. 
+  - Has a stereotypical monster gravel voice. 
+  - Only wears a chef hat and apron.
 - Assessor: Dirk Heavimetal (He-vi-me-tahl)
   - Long face, long hair. Jet black hair
   - brown duster with the rest of his apparel being cowboy vibes
@@ -90,7 +93,7 @@ title: "Monster Hunter Guild and Surrounding Area"
 
 #### Monster Hunter Keep Layout
 
-- This particular MHG Branch found its primary residence inside a *not fully explored* ancient keep with a court yard and stable. The reason for why it's not fully explored is due to a mixture of having a small staff, it being mildly haunted, there being collapsed hallways, and the branch manager having a deep seated desire to make money over battling ghosts. The ghosts are a mix of hostile and friendly, and I will not go any further than that.
+- This particular MHG Branch found its primary residence inside a *not fully explored* ancient keep (known as the Ephemeral Stand in the keep scriptures) with a court yard and stable. The reason for why it's not fully explored is due to a mixture of having a small staff, it being mildly haunted, there being collapsed hallways, and the branch manager having a deep seated desire to make money over battling ghosts. The ghosts are a mix of hostile and friendly, and I will not go any further than that.
 - Dorms: Part of the keep holds the sleeping chambers that have been converted into dorms for space efficiency.
 - Small Office: A large bed chamber was converted into an office space for the HR person, Branch Head, Assessor, maybe the Drill Sergeant, and HQ Wizard to work in. Yes, there are cubicles, but the HQ Wizard's has a door and its top is covered *for reasons*.
 - Armory: Where new gear would be kept if nosey adventuring recruits didn't plan a heist every other week. As such, the rampant theft among the branches caused the cooperative to decide armories are to be just landing zones for new gear that is to be dispersed under the discretion of the Branch Manager.
@@ -107,6 +110,10 @@ title: "Monster Hunter Guild and Surrounding Area"
   - C: Then hopefully report back (If they can't it becomes a rescue mission)
 - Payment is not always required as some hunter groups can opt to do work pro-bono if they desire
 - Mission transportation is generally handled either through horses/buggies or, if the mission has an aquatic nature, boats. One thing to note, is if the guild has an abundance of wizards and money they can use the magical fax machines as a way of teleportation; this small branch has neither.
+
+#### Mission/Incident Ratings
+- *rating levels descriptions to be filled in later*
+- Each incident is rated on a scale of 0 to 20. 0 being rated for a fresh recruit and 20 being rated for powers only known to the gods.
 
 #### Recruitment/Training
 
