@@ -34,6 +34,8 @@ They walk into a beautiful bioluminescent forest, with a bridge spanning over a 
 
 Reef and Mano explain (after Reef is freed) that they are ambassadors for Steelwood, here to make things right.  The dryads are pisssssssed and basically tell them that the townspeople need to leave and stop cutting trees immediately.
 
+They explain that the curse of Licheros is apt to be released upon the town.  They are chanting to keep Licheros contained within the earth, since the ancient tree's powers (along with the other magical trees) are no longer protecting the barrier.
+
 The players see the men that had disappeared from the town in the trees' bark, also chanting.
 
 Mano tries to be diplomatic, but the dryads are NOT having it.  Mano and Reef head back to get the rest of the group and talk to John Finger…
