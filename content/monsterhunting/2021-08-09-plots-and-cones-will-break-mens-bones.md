@@ -1,6 +1,6 @@
 ---
 title: Plots and Cones will Break Men's Bones
-date: 2021-08-09T17:17:29.371Z
+date: 2021-07-19T17:17:29.371Z
 ---
 <!--StartFragment-->
 
