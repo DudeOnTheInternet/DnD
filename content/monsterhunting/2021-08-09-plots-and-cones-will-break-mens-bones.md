@@ -1,5 +1,5 @@
 ---
-title: 2021-07-19 Plots and Cones will Break Men's Bones
+title: "2021-07-19: Plots and Cones will Break Men's Bones"
 date: 2021-07-19T23:00:29.371Z
 ---
 <!--StartFragment-->
