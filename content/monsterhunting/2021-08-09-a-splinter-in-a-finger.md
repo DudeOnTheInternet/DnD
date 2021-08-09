@@ -1,5 +1,5 @@
 ---
-title: 2021-07-17 A Splinter in a Finger
+title: "2021-07-17: A Splinter in a Finger"
 date: 2021-07-17T23:00:23.183Z
 ---
 <!--StartFragment-->
