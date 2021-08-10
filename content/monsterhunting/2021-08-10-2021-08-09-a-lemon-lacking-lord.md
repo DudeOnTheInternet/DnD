@@ -80,7 +80,7 @@ Krux asks about the location of the shack.  Lemonburg goes to his desk and pull
 
 ![](/img/lemonburg-estate-abstract-map.png)
 
-"So it's been going on for a few months.  We found Dave keeping some lemons under his cot.  When confronted about it, he then went missing." Lemonburg says.
+"So it's been going on for a few months.  We found Dave keeping some lemons under his cot.  When confronted about it, he then went missing," Lemonburg says.
 
 "How soon after did he go missing?" Krux asked.
 
