@@ -102,8 +102,6 @@ The party leaves to pursue their leads.  They plan to start with Alfred.  They
 
 Krux goes into Prancer's room and sees a lot of pictures of Prancer and horses.
 
-\[PRANCER]:
-
 ![](/img/prancer-lemonburg.png)
 
 He has a nice, made bed.
@@ -154,8 +152,6 @@ They approach the mercenaries around a table playing some card games.  Krux ask
 
 The list (not chronological):
 
-
-
 Lord Lemonburg
 
 Lady Lemonburg
@@ -179,8 +175,6 @@ Alfred Higgintop
 \--Insert MHG members here--
 
 \--Insert mercenary group names of the Black Hawks--
-
-
 
 Ben then asks if they've talked to anyone about seeing some weird some weird stuff on the grounds.  He describes it as a  "white amorphic being."  He was taking his pipe out one night and saw it.
 
