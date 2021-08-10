@@ -104,7 +104,7 @@ Krux goes into Prancer's room and sees a lot of pictures of Prancer and horses.
 
 \[PRANCER]:
 
-![](file:///C:/Users/austi/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
+![](/img/prancer-lemonburg.png)
 
 He has a nice, made bed.
 
@@ -112,7 +112,7 @@ Krux takes a look in Dancer's room.  It is a very neat room, like Prancer's.  
 
 Mano works his way to the kitchen.  He hears some violent clanging of pots and pans and stuff as he nears.  He hears a woman's voice say, "Gosh darnit Susan, you've done it again, you don't know what you're doing… You've got to set up for the Gala Grand Meal!"  He sees this woman, assumably Susan, speaking in third person as he enters.
 
-![](file:///C:/Users/austi/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png)
+![](/img/susan-sus.png)
 
 He enters and Susan Sus (Soo) asks if he's the new help, seeming exasperated.   He says no and asks about where Alfred is.  She directs him out the manor and to the right, to the Servants' Quarters.  She asks if he wants to make some extra coin, but he declines and heads out towards her directions.
 
@@ -154,6 +154,8 @@ They approach the mercenaries around a table playing some card games.  Krux ask
 
 The list (not chronological):
 
+
+
 Lord Lemonburg
 
 Lady Lemonburg
@@ -174,9 +176,11 @@ Susan Sous
 
 Alfred Higgintop
 
-<Insert MHG members here>
+\--Insert MHG members here--
 
-<Insert mercenary group names of the Black Hawks>
+\--Insert mercenary group names of the Black Hawks--
+
+
 
 Ben then asks if they've talked to anyone about seeing some weird some weird stuff on the grounds.  He describes it as a  "white amorphic being."  He was taking his pipe out one night and saw it.
 
